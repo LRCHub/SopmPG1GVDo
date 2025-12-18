@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "流星の声",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-18T09:11:49.090588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流星の声",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_流星の声_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星の声",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_流星の声_ロクデナシ.txt"
+    }
+  ]
+}
